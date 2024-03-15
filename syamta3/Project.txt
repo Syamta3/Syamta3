@@ -1,0 +1,3 @@
+rules: -polite 
+       -no Rasis
+       -support all member
